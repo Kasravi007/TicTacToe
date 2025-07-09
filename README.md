@@ -45,7 +45,7 @@ to determine if a player has won.
 
 ## 🛠️ Requirements
 
-- .NET 6.0 SDK or above
+- .NET 9.0 SDK or above
 - Any C#-compatible IDE (Visual Studio, VS Code) or command line
 
 ## ▶️ How to Run
